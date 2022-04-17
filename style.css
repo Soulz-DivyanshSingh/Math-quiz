@@ -8,3 +8,13 @@ body{
     float: none;
     border-radius: 20px;
 }
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid red;
+    padding: 10px;
+    text-align: left;
+
+    margin-top: 60px;
+}
